@@ -59,4 +59,5 @@ li a:hover:not(.active) {
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+    padding: 30px;;
 }
