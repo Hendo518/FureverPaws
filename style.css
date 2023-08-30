@@ -1,18 +1,18 @@
 body {
-    background-color: black;
+    background-color: rgb(191, 172, 194);
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(7, 105, 23);
+    background-color: rgb(78, 92, 173);
 }
 li {float:left}
 
 li a {
     display: block;
-    color:blueviolet ;
+    color:rgb(192, 186, 197) ;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
