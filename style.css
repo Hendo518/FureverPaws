@@ -65,3 +65,9 @@ li a:hover:not(.active) {
 .active {
     color: rgb(254, 240, 255);
 }
+
+.f1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: teal;
+}
