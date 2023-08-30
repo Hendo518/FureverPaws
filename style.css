@@ -48,3 +48,15 @@ li a:hover:not(.active) {
         text-align: center;
     
 }
+
+.puppy1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 30%;
+    height: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
