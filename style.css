@@ -71,4 +71,8 @@ li a:hover:not(.active) {
     font-family: 'Pacifico', cursive;
     
     
+.f1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: teal;
 }
