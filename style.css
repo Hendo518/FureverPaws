@@ -65,3 +65,10 @@ li a:hover:not(.active) {
 .active {
     color: rgb(254, 240, 255);
 }
+
+#font {
+    font-family: 'Gluten', cursive;
+    font-family: 'Pacifico', cursive;
+    
+    
+}
