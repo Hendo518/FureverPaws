@@ -24,7 +24,7 @@
         <br>
         <h1 id="font">Adoption Form</h1> 
         <fieldset>
-         <legend class="l1">Adoption Questionnaire</legend>
+         <legend id="font" class="l1">Adoption Questionnaire</legend>
          <br>
          <div class="f1">
          <form>
@@ -83,7 +83,7 @@
         </div>
         <br>
       <h1 id="font">Payment Form</h1>
-       <p>Required Fields are marked by *</p>
+       <p id="font">Required Fields are marked by *</p>
         
        <div class="f1">
        <form>
@@ -109,12 +109,12 @@
                 <input id="prefix-Mrs." name="prefix" type="radio" value="prefix=Mrs." />
              </label>
              <br />
-             <label for="name">Name
+             <label for="name">Name *
                 <input id="name" name="name" type="text" required />
              </label>
              <br />
-             <label for="email">email
-                <input id="email" name="email" type="email" required />
+             <label for="email">Email
+                <input id="email" name="email" type="email" required >
              </label>
              <br />
              <label>
@@ -122,6 +122,8 @@
                 <Select>
                 <option value="credit card">Credit Card</option> 
                  
+                <legend> Payment Information *</legend>
+                 <select name="credit card" id="credit card" required >
                  <option value="visa">Visa</option>
                  <option value="mastercard">Mastercard</option>
                  <option value="Apple Cash">Apple Cash</option>
