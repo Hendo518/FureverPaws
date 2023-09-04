@@ -109,11 +109,9 @@ font-family: 'Times New Roman', Times, serif;
 font-size: 20px;
 }
 
-.animals {
-    display: column: flex ;
-    
-}
+
 .image{
 
     float: left;
-    margin-right: 10p
+    margin-right: 10px;
+}
