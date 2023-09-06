@@ -115,3 +115,9 @@ font-size: 20px;
     column: auto auto auto ;
     margin-right: 10px;
 }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
